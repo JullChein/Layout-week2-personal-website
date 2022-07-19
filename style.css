@@ -1,0 +1,268 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.main {
+    width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.main h2 {
+    font-size: 64px;
+    line-height: 84px;
+    font-weight: 500;
+    font-style: italic;
+    padding-top: 56px;
+    padding-bottom: 40px;
+}
+
+.main img {
+    padding-bottom: 20px;
+}
+
+.about li {
+    font-size: 24px;
+    line-height: 42px;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.mb-4 {
+    margin-bottom: 4px;
+}
+
+.mb-8 {
+    margin-bottom: 8px;
+}
+
+.about-list-edu {
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.mb-24 {
+    margin-bottom: 24px;
+}
+
+.experience {
+    border-top: 1px solid #000;
+    padding-bottom: 56px;
+    width: 384px;
+    margin: 0 auto;
+}
+
+.experience li {
+    padding-top: 28px;
+    font-size: 24px;
+    line-height: 42px;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.experience li div {
+    content: '';
+    width: 22px;
+    height: 22px;
+    background-color: #891818;
+    border-radius: 50%;
+    margin-right: 16px;
+    display: inline-block;
+}
+
+header {
+    height: 960px;
+    background-image: url(week2-img/banner.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #fff;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 308px 0;
+}
+
+.here {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 24px;
+    line-height: 42px;
+}
+
+.box h1 {
+    font-weight: 900;
+    font-style: italic;
+    font-size: 80px;
+    line-height: 106px;
+    padding-bottom: 32px;
+}
+
+.title {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 24px;
+    line-height: 36px;
+    padding-right: 8px;
+    padding-left: 13px;
+    padding-bottom: 40px;
+}
+
+header ul {
+    display: flex;
+    justify-content: space-between;
+    width: 288px;
+}
+
+.media-list a:hover {
+    opacity: .5;
+}
+
+.brand {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+}
+
+.brand h2 {
+    font-weight: 500;
+    font-style: italic;
+    font-size: 64px;
+    line-height: 84px;
+    padding-top: 56px;
+}
+
+.brand-slogan {
+    font-weight: 500;
+    font-style: italic;
+    font-size: 24px;
+    line-height: 42px;
+    padding-top: 12px;
+    padding-bottom: 32px;
+}
+
+.brand p {
+    font-weight: 500;
+    font-style: italic;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.brand img {
+    padding-top: 68px;
+}
+
+.two-img img {
+    padding-top: 40px;
+    padding-bottom: 160px;
+}
+
+.pl-12 {
+    padding-left: 12px;
+}
+
+.pr-12 {
+    padding-right: 12px;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.works {
+    text-align: center;
+    padding-bottom: 144px;
+}
+
+.works h2 {
+    font-weight: 500;
+    font-style: italic;
+    font-size: 64px;
+    line-height: 84px;
+    padding-top: 56px;
+}
+
+.intro {
+    font-weight: 500;
+    font-style: italic;
+    font-size: 20px;
+    line-height: 30px;
+    padding-top: 16px;
+    padding-bottom: 56px;
+}
+
+.works ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+.works img:hover {
+    opacity: .5;
+}
+
+.top p {
+    font-weight: 500;
+    font-style: italic;
+    font-size: 20px;
+    line-height: 42px;
+    padding-top: 16px;
+    padding-bottom: 48px;
+}
+
+.middle p {
+    font-weight: 500;
+    font-style: italic;
+    font-size: 20px;
+    line-height: 42px;
+    padding-top: 16px;
+    padding-bottom: 48px;
+}
+
+.down p {
+    font-weight: 500;
+    font-style: italic;
+    font-size: 20px;
+    line-height: 42px;
+    padding-top: 16px;
+}
+
+footer {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+}
+
+footer h2 {
+    font-weight: 500;
+    font-style: italic;
+    font-size: 64px;
+    line-height: 84px;
+    padding-top: 64px;
+}
+
+footer ul {
+    padding-bottom: 64px;
+}
+
+.contact-list {
+    font-weight: 500;
+    font-style: italic;
+    padding-top: 16px;
+}
+
+.contact-list a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 24px;
+    line-height: 36px;
+}
+
+.contact-list a:hover {
+    opacity: .5;
+}
